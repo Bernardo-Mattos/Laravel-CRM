@@ -4,19 +4,18 @@
 [![GitHub stars](https://img.shields.io/github/stars/Bernardo-Mattos/Laravel-CRM)](https://github.com/seu-rnameBernardo-Mattosm-control/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/Bernardo-Mattos/Laravel-CRM)](https://github.com/seu-username/Bernardo-Mattos/issues)
 
-Sistema de Controle de CRM desenvolvido com Laravel e ReactJS.
+CRM Control System developed with Laravel and ReactJS.
 
-## Pré-requisitos
+## Prerequisites
 
-Certifique-se de ter as seguintes ferramentas instaladas antes de prosseguir:
+Make sure you have the following tools installed before proceeding:
 
 - [Node.js](https://nodejs.org/)
 - [Composer](https://getcomposer.org/)
 - [PHP](https://www.php.net/)
 
-## Instalação
+## Installation
 
-1. Clone o repositório:
-
+1. Clone the repository:
    ```bash
    git clone https://github.com/Bernardo-Mattos/Laravel-CRM.git
